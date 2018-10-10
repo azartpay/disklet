@@ -4,7 +4,7 @@
   "description": "A tiny, composable filesystem API",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Airbitz/disklet.git"
+    "url": "git://github.com/azartpay/disklet.git"
   },
   "license": "MIT",
   "author": "Airbitz, Inc.",
@@ -55,7 +55,7 @@
     "tmp": "^0.0.31"
   },
   "peerDependencies": {
-    "react-native": "^0.47.0"
+    "react-native": "0.56.1"
   },
   "react-native": "lib/disklet.rn.js"
 }
